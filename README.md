@@ -1,4 +1,4 @@
-# BeatCut
+# WhyBeatCut
 
 **Drop a song in a folder, get a video cut on the beat. Runs by itself at startup.**
 
