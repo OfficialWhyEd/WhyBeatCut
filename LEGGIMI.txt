@@ -1,0 +1,9 @@
+BEATCUT - video a tempo di musica
+
+1. Metti una canzone in "METTI QUI LA MUSICA"
+2. Dopo circa un minuto il video e' in "VIDEO FATTI"
+
+Vuoi le tue clip? Mettile in "I MIEI VIDEO": escono piu' spesso di quelle stock.
+Vuoi un altro tema (non macchine)? Cambia le righe in tema.txt e svuota "clip-stock".
+Gira da solo all'avvio del PC (attivita' "BeatCut" in Utilita' di pianificazione).
+Log: _beatcut.log
